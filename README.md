@@ -1,3 +1,14 @@
+# Idea
+Preserved government is digital preservation project dedicated to preserve all digital public records made by governments.
+
+For now it includes following activities:
+- government websites archiving
+- archiving of official social accounts - Twitter, Facebook, Flickr, Livejournal and others
+- government open data archiving
+- historical data archiving
+
+More info - https://github.com/infoculture/preserved-russia/wiki
+
 # Archival procedure
 
 ## To save website as WARC
