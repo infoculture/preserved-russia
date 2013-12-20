@@ -11,3 +11,7 @@ Run python archive_httrack.py [domain_name] for example "python archive_httrack.
 Archive result as 7z archive. using "7z a [domain_name].7z [directory_name]"
 
 
+# Current documents
+* https://drive.google.com/folderview?id=0B5haFpvgzsyhYW1lOHBiT1hrRG8&usp=sharing
+
+
